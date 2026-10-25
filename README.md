@@ -4,7 +4,6 @@ Custom Python scripts for image processing, analysis, quantification and data ha
 
 > Kapoor T., Tong X., …, Heisenberg C.-P. Apico-basal polarisation sets the basis for epiboly movements during zebrafish gastrulation.
 
-
 ## Contents
 
 | Notebook | Purpose |
